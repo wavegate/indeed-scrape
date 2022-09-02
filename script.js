@@ -147,55 +147,6 @@ class SortFunctions {
   }
 }
 
-// const stack = {
-//   "front-end": 291,
-//   "back-end": 207,
-//   "full-stack": 144,
-//   DevOps: 80,
-//   "UI/UX": 69,
-// };
-
-// const language = {
-//   JavaScript: 506,
-//   HTML: 307,
-//   CSS: 308,
-//   TypeScript: 132,
-//   PHP: 68,
-//   Java: 267,
-//   Python: 221,
-//   Kotlin: 18,
-//   Swift: 20,
-//   Dart: 3,
-//   "C#": 74,
-//   C: 154,
-//   "C++": 68,
-//   R: 37,
-//   Lua: 106,
-//   Julia: 0,
-//   Solidity: 0,
-//   Cobol: 0,
-//   Go: 36,
-//   Rust: 79,
-//   Ruby: 49,
-//   Perl: 32,
-//   Clojure: 9,
-//   Scala: 8,
-//   Wolfram: 0,
-// };
-
-// const frontend = {
-//   React: 310,
-//   Angular: 198,
-//   Vue: 64,
-//   Ember: 239,
-//   Svelte: 3,
-//   jQuery: 85,
-//   Blazor: 0,
-//   WebAssembly: 5,
-//   Next: 10,
-//   Gatsby: 2,
-// };
-
 const chart = (input, topic) => {
   const labels = [];
   const values = [];
